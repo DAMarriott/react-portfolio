@@ -1,163 +1,118 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+    "name": "Daniel A. Marriott",
+    "occupation": "Full Stack Web Developer",
+    "description": "I am always seeking new opportunities to work on exciting projects and with interesting people",
+    "image": "profilepic.jpg",
+    "bio": "I dove head first the second I finally realized and understood my passion for coding. I love to constantly learn new skills and use them to develop interesting projects. I love what I do so it hardly feels like work. When I step away from the keyboard, I like to be outside: playing sports, hiking, lounging on the beach while listening to anything from Kanye to Led Zeppelin. I appreciate tasty food aand having a good conversation over a great meal. I love reading all genres and playing all different sorts of video games.",
+    "contactmessage": "Please connect with me through any of my social profiles, or by sending an email below.",
+    "email": "dmarriott93@gmail.com",
+    "address": {
+      "street": "4277 Moore St.",
+      "city": "Los Angeles",
+      "state": "California",
+      "zip": "90066"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
-    "social":[
+    "website": "http://www.danielmarriott.dev",
+    "resumedownload": "http://www.danielmarriott.dev",
+    "social": [
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
+        "name": "twitter",
+        "url": "https://twitter.com/D_A_Marriott",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/daniel-marriott",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
+        "name": "instagram",
+        "url": "http://instagram.com/dannyhotel",
+        "className": "fa fa-instagram"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
-        "name":"github",
-        "url":"http://github.com/tbakerx",
-        "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name": "github",
+        "url": "http://github.com/DAMarriott",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
-    "education":[
+  "resume": {
+    "skillmessage": "Some technical skills I have developed over the past few years:",
+    "education": [
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "University of Maryland, College Park",
+        "degree": "BS in Business-Marketing",
+        "graduated": "May 2015",
+        "description": "Vice President and Risk Manager for Tau Kappa Epsilon - Beta Delta | Media, Self, and Society Scholars Program"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Oppie Labs.",
+        "title": "Web Developer",
+        "years": "November 2019 - Present",
+        "description": "Design and code front-end modules with HTML, CSS, and React in order to improve client sites | Manage Wordpress for a range of clients to improve site functionality by updating tags, researching and implementing plugins, and editing custom themes."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company": "Cheetah Digital",
+        "title": "Client Success Manager",
+        "years": "May 2017 - August 2019",
+        "description": "Drove retention and growth for CD’s highest value clients with a 140% growth against target for a portfolio including Citibank, Neiman Marcus, Michael’s, and American Airlines | Utilized skills such as project management, account management, sales, marketing and created relationships with key business decision makers."
       }
     ],
-    "skills":[
+    "skills": [
       {
-        "name":"Git",
-        "level":"60%"
+        "name": "HTML5",
+        "level": "80%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name": "ReactJs",
+        "level": "70%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
+        "name": "CSS",
+        "level": "80%"
       },
       {
-        "name":"CSS",
-        "level":"90%"
+        "name": "Git",
+        "level": "60%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
+        "name": "NodeJS",
+        "level": "55%"
+      },
+
+      {
+        "name": "Express",
+        "level": "50%"
       },
       {
-        "name":"VueJs",
-        "level":"50%"
-      },
-      {
-        "name":"MongoDB",
-        "level":"80%"
+        "name": "PostgreSQL",
+        "level": "50%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title": "Dic",
+        "category": "'personal word assisstant'",
+        "image": "dichome.png",
+        "url": "https://damarriott.github.io/dic/"
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
