@@ -4,7 +4,7 @@
     "occupation": "Full Stack Web Developer",
     "description": "I am always seeking new opportunities to work on exciting projects and with interesting people",
     "image": "profilepic.jpg",
-    "bio": "I dove head first the second I finally realized and understood my passion for coding. I love to constantly learn new skills and use them to develop interesting projects. I love what I do so it hardly feels like work. When I step away from the keyboard, I like to be outside: playing sports, hiking, lounging on the beach while listening to anything from Kanye to Led Zeppelin. I appreciate tasty food aand having a good conversation over a great meal. I love reading all genres and playing all different sorts of video games.",
+    "bio": "I am obsessed with learning new skills and using them to develop interesting projects. I built my first computer at 14 and have been an enthusiast ever since. I've always been good with people so I decided to try sales after I graduated from college, but after chasing checks for a few years and lacking any real job satisfaction, I decded to return to my techie roots. I love what I do now so it hardly feels like work. When I step away from the keyboard, I like to be outside: playing sports, hiking, lounging on the beach while listening to anything from Kanye to Led Zeppelin. I appreciate tasty food and having a good conversation over a great meal. I love reading all genres and playing all different sorts of video games.",
     "contactmessage": "Please connect with me through any of my social profiles, or by sending an email below.",
     "email": "dmarriott93@gmail.com",
     "address": {
@@ -101,18 +101,12 @@
         "category": "'personal word assisstant'",
         "image": "dichome.png",
         "url": "https://damarriott.github.io/dic/"
-      }
-    ]
-  },
-  "testimonials": {
-    "testimonials": [
-      {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "title": "Roomsquared",
+        "category": "'shared expense tracking for roommates'",
+        "image": "roomsquaredprev.png",
+        "url": "https://roomsquared-app.dmarriott.now.sh/"
       }
     ]
   }
