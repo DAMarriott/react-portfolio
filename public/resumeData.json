@@ -4,7 +4,7 @@
     "occupation": "Full Stack Web Developer",
     "description": "I am always seeking new opportunities to work on exciting projects and with interesting people",
     "image": "profilepic.jpg",
-    "bio": "I am obsessed with learning new skills and using them to develop interesting projects. I built my first computer at 14 and have been an enthusiast ever since. I've always been good with people so I decided to try sales after I graduated from college, but after chasing checks for a few years and lacking any real job satisfaction, I decded to return to my techie roots. I love what I do now so it hardly feels like work. When I step away from the keyboard, I like to be outside: playing sports, hiking, lounging on the beach while listening to anything from Kanye to Led Zeppelin. I appreciate tasty food and having a good conversation over a great meal. I love reading all genres and playing all different sorts of video games.",
+    "bio": "I am on a journey to improve myself each and every day, motivated by an insatiable intellectual curiosty and a need to become the very best version of myself. I want to leave my mark on the world and leave it a better place than I found it. I built my first computer at 14 and have been a tech enthusiast ever since. I've always been good with people so I decided to try sales after I graduated from college, but after chasing checks for a few years and lacking any real job satisfaction, I decided to return to my techie roots. I love what I do now so it hardly feels like work.",
     "contactmessage": "Please connect with me through any of my social profiles, or by sending an email below.",
     "email": "dmarriott93@gmail.com",
     "address": {
@@ -16,6 +16,11 @@
     "website": "http://www.danielmarriott.dev",
     "resumedownload": "https://docs.google.com/document/d/1cxJ1ij0nBlOCcTgnYA1hS6B__aaOdGuZvtklPW6RpIw/edit?usp=sharing",
     "social": [
+      {
+        "name": "email",
+        "url": "mailto:dmarriott93@gmail.com",
+        "className": "fa fa-mail-reply"
+      },
       {
         "name": "twitter",
         "url": "https://twitter.com/D_A_Marriott",
@@ -65,32 +70,34 @@
     "skills": [
       {
         "name": "HTML5",
-        "level": "80%"
+        "logo": "HTML5.png",
+        "stack": "a"
       },
       {
         "name": "ReactJs",
-        "level": "70%"
+        "logo": "React.png",
+        "stack": "a"
       },
       {
         "name": "CSS",
-        "level": "80%"
-      },
-      {
-        "name": "Git",
-        "level": "60%"
+        "logo": "CSS3.png",
+        "stack": "a"
       },
       {
         "name": "NodeJS",
-        "level": "55%"
+        "logo": "Nodejs.png",
+        "stack": "b"
       },
 
       {
         "name": "Express",
-        "level": "50%"
+        "logo": "express.png",
+        "stack": "b"
       },
       {
         "name": "PostgreSQL",
-        "level": "50%"
+        "logo": "50%",
+        "stack": "d"
       }
     ]
   },
