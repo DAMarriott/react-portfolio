@@ -114,6 +114,12 @@
         "category": "'shared expense tracking for roommates'",
         "image": "roomsquaredprev.png",
         "url": "https://roomsquared-app.dmarriott.now.sh/"
+      },
+      {
+        "title": "Where in the World?",
+        "category": "'RESTful Countries API app'",
+        "image": "countryAPI.png",
+        "url": "https://github.com/DAMarriott/country-api-client"
       }
     ]
   }
