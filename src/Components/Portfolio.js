@@ -21,6 +21,7 @@ class Portfolio extends Component {
                 </div>
               </a>
             </div>
+            <a href={projects.git}>GIT</a>
           </div>
         );
       });

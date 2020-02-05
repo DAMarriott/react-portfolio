@@ -107,19 +107,22 @@
         "title": "Dic",
         "category": "'personal word assisstant'",
         "image": "dichome.png",
-        "url": "https://damarriott.github.io/dic/"
+        "url": "https://damarriott.github.io/dic/",
+        "git": "https://github.com/DAMarriott/dic"
       },
       {
         "title": "Roomsquared",
         "category": "'shared expense tracking for roommates'",
         "image": "roomsquaredprev.png",
-        "url": "https://roomsquared-app.dmarriott.now.sh/"
+        "url": "https://roomsquared-app.dmarriott.now.sh/",
+        "git": "https://github.com/DAMarriott/roomsquared-app"
       },
       {
         "title": "Where in the World?",
         "category": "'RESTful Countries API app'",
         "image": "countryAPI.png",
-        "url": "https://github.com/DAMarriott/country-api-client"
+        "url": "https://github.com/DAMarriott/country-api-client",
+        "git": "https://github.com/DAMarriott/country-api-client"
       }
     ]
   }
