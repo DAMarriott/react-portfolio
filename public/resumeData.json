@@ -104,16 +104,31 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Dic",
-        "category": "'personal word assisstant'",
-        "image": "dichome.png",
-        "url": "https://damarriott.github.io/dic/"
+        "title": "CovidRace",
+        "category": "Web application tracking the development of Coronavirus vaccination efforts",
+        "image": "covidrace.png",
+        "url": "https://roomsquared-app.dmarriott.now.sh/",
+        "git": "https://github.com/DAMarriott/roomsquared-app",
+        "stack": "Next.js, React, React Context, Evergreen UI, Javascript",
+        "features": ""
       },
       {
         "title": "Roomsquared",
-        "category": "'shared expense tracking for roommates'",
-        "image": "roomsquaredprev.png",
-        "url": "https://roomsquared-app.dmarriott.now.sh/"
+        "category": "Shared expense tracking for roommates",
+        "image": "roomsquared.png",
+        "url": "https://roomsquared-app.dmarriott.now.sh/",
+        "git": "https://github.com/DAMarriott/roomsquared-app",
+        "stack": "HTML5, SCSS, Javascript, React, Node.js, PostgreSQL",
+        "features": ""
+      },
+      {
+        "title": "More Projects",
+        "category": "Various other projects I have worked on over the past couple of months",
+        "image": "github.png",
+        "url": "https://github.com/DAMarriott/portfolio-works/blob/master/README.md",
+        "git": "https://github.com/DAMarriott/portfolio-works/blob/master/README.md",
+        "stack": "PHP, Wordpress, React Native",
+        "features": ""
       }
     ]
   }
