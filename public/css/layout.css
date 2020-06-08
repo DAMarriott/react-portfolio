@@ -478,8 +478,24 @@ ul#nav li.current a {
   margin-bottom: 36px;
 }
 
+.project-title {
+  font-size: 36px;
+}
+
+.project-category {
+  font-style: italic;
+}
+
+.project-stack {
+  font-size: larger;
+  font-weight: 700;
+}
+
 .columns .portfolio-item {
   display: flex;
+  background-color: rgba(0, 128, 255, 0.1);
+  border-radius: 4px;
+  padding: 12px;
 }
 .portfolio-item .item-wrap {
   background: #fff;
@@ -521,7 +537,9 @@ ul#nav li.current a {
 }
 
 .project-details {
-  margin-left: 8%;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
 .portfolio-item .item-wrap .link-icon {
   display: block;
