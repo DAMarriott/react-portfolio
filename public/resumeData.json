@@ -107,8 +107,8 @@
         "title": "CovidRace",
         "category": "Web application tracking the development of Coronavirus vaccination efforts",
         "image": "covidrace.png",
-        "url": "https://roomsquared-app.dmarriott.now.sh/",
-        "git": "https://github.com/DAMarriott/roomsquared-app",
+        "url": "https://covidrace.news/",
+        "git": "",
         "stack": "Next.js, React, React Context, Evergreen UI, Javascript",
         "features": ""
       },

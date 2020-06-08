@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Accordion, Button, Card } from "react-bootstrap";
+import { Accordion, Card, Button } from "react-bootstrap";
 
 class Portfolio extends Component {
   render() {
@@ -47,7 +47,7 @@ class Portfolio extends Component {
 
     return (
       <section id="portfolio">
-        <Accordion defaultActiveKey="0">{projects}</Accordion>
+        <Accordion>{projects}</Accordion>
       </section>
     );
   }
